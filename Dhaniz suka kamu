@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Landing page</title>
+</head>
+<body>
+
+<center>
+  <h1>SMK NEGERI 1 BLADO</h1>
+  <center>
+  
+  <img src=smk.png width="160px">
+  <title>Form Login</title>
+  </head>
+  <link rel="stylesheet" type="text/css" href="tampilan/desain.css">
+  <body>
+    <h1></h1>
+    <div class="kotak_login">
+      <p class="tuliaan_login">silahkan login disini</p>
+      <form>
+      <label>Username :</label>
+      <input type="text" name="Username" class="form login"placeholder="masukan Username">
+   <labe>password :</labe>
+   <input type="password" name="password" class="from_login" placeholder="masukan password">
+   <input type="sumbit" class="tombol_login" value="Login"
+   </form>
+   </div>
+   <p class="buatan">buatan dhaniz tjkt1</p>
+    
+    
+  </body>
+  
+</body>
+</html>
